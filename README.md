@@ -2,6 +2,8 @@
 
 # Potion: Towards Poison Unlearning
 
+ArXiv: [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173)
+
 Our work is based on the benchmarking environment of [Corrective Machine Unlearning](https://github.com/drimpossible/corrective-unlearning-bench) 
 
 ## Abstract
@@ -23,7 +25,14 @@ We have set up logging using weights and biases. Feel free to use alternative lo
 ## Citing this work
 
 ```
-To be added
+@misc{schoepf2024potion,
+      title={Potion: Towards Poison Unlearning}, 
+      author={Stefan Schoepf and Jack Foster and Alexandra Brintrup},
+      year={2024},
+      eprint={2406.09173},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
+}
 ```
 
 ## Our related research
