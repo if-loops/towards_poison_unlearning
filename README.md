@@ -19,7 +19,7 @@ Experimental results show that our method heals 93.72\% of poison compared to SS
 ![problem (1)](https://github.com/if-loops/towards_poison_unlearning/assets/47212405/e328df52-8af5-460e-9c49-85d7ea65428d)
 
 ## Using this repo
-The .sh files are used to perform the experiments. Most parameters (e.g., $\rho$) can be changed directly in the .sh files, while others such as $s_{step}$ and $s_{start}$ are set in main.py and methods.py.
+The .sh files are used to perform the experiments. Most parameters (e.g. $\rho$) can be changed directly in the .sh files, while others such as $s_{step}$ and $s_{start}$ are set in main.py and methods.py.
 We have set up logging using weights and biases. Feel free to use alternative loggers.
 
 ## Citing this work
