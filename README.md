@@ -4,6 +4,8 @@
 
 ArXiv: [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173)
 
+![poison_wide](https://github.com/if-loops/towards_poison_unlearning/assets/47212405/25d7c38b-6dbc-440a-bae8-201f3f84ecef)
+
 Our work is based on the benchmarking environment of [Corrective Machine Unlearning](https://github.com/drimpossible/corrective-unlearning-bench) 
 
 ## Abstract
